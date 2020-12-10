@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T03:55:19.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="t87asJoB5gxlsMxajQBP" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T03:57:47.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4PfRfar7DYJ0skmWkIOe" version="14.0.0" type="github">
   <diagram id="4dkKXYNTAWK5__7AtTli" name="Page-1">
-    <mxGraphModel dx="3197" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4890" dy="3346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,6 +107,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-190" y="410" as="sourcePoint" />
             <mxPoint x="1700" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxXV3Al38AFxh0UGhGaE-60" value="占便宜" style="shape=card;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="60" y="990" width="220" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rxXV3Al38AFxh0UGhGaE-61" value="好吃（惊艳）" style="shape=card;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="990" width="220" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rxXV3Al38AFxh0UGhGaE-62" value="健康新鲜" style="shape=card;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="590" y="990" width="220" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rxXV3Al38AFxh0UGhGaE-63" value="社交" style="shape=card;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="860" y="990" width="220" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rxXV3Al38AFxh0UGhGaE-64" value="性价比" style="shape=card;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="990" width="220" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rxXV3Al38AFxh0UGhGaE-65" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=7;fontSize=33;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="1400" as="sourcePoint" />
+            <mxPoint x="1680" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
