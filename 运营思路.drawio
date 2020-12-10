@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T03:46:22.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="FHoecPyOxj0_VFD1ClJL" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T03:55:19.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="t87asJoB5gxlsMxajQBP" version="14.0.0" type="github">
   <diagram id="4dkKXYNTAWK5__7AtTli" name="Page-1">
-    <mxGraphModel dx="3197" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-1" value="活动&amp;amp;促销&amp;amp;广告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="670" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="-290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-48" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="rxXV3Al38AFxh0UGhGaE-25" target="rxXV3Al38AFxh0UGhGaE-40">
           <mxGeometry relative="1" as="geometry" />
@@ -62,40 +62,52 @@
           <mxGeometry x="1290" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-29" value="占便宜" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-177" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-30" value="好吃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-27" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-10" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-31" value="社交" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="123" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-32" value="性价比" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="277" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-40" value="占便宜" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="443" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-41" value="好吃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="593" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-42" value="社交" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="743" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-43" value="性价比" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="897" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="914" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-44" value="占便宜" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1063" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-45" value="好吃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1213" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1230" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-46" value="社交" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1363" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxXV3Al38AFxh0UGhGaE-47" value="性价比" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="1517" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1534" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rxXV3Al38AFxh0UGhGaE-57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=7;fontSize=33;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-190" y="100" as="sourcePoint" />
+            <mxPoint x="1700" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxXV3Al38AFxh0UGhGaE-58" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=7;fontSize=33;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-190" y="410" as="sourcePoint" />
+            <mxPoint x="1700" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
